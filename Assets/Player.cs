@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player  {
+public abstract class Player  {
 
-	private void MyFunction() {
+	protected void MyFunction() {
 
 	}
 }
